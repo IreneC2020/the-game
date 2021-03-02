@@ -1,29 +1,27 @@
 # Welcome to Group 1 Game
 
-Our Game Group Project! This is an open source project for students in ***Group 1 in IT 115 class at North Seattle College***, but welcome for everyone contribution. We appreciate it.
+Our Game Group Project! This is an open source project for students in ***Group 1 in IT 115 class at North Seattle College***,
+but welcome for everyone contribution. We appreciate it.
 
 Our group developes an adventure text game. The player wakes up at an empty room and he is not sure what to do next.
 Player has four options to go forward, backward, left or right.
 Player decides to go forward --> Welcome player to go to an adventure room of Group 1.
 
-What will player see in the dark room without any window? 
+What will player see in the dark room without any window?
 
-Let us know your answer and feel free to contribute your creative ideas to our team. 
+Let us know your answer and feel free to contribute your creative ideas to our team.
 
 ## Environment Details
 
 Part of the class is to explore different development enviroments. This repository will be for code contributions from all group members.
 This is the directory for group 1. Each group member contribute code to this directory.
 The repo already gave access to all group members as collaborator to access and manage the whole directory.
-However, in order to make the main repo deployable at anytime, please set up branches before editing, and seek other collaboartors' reviews before putting the changes to the main. 
+However, in order to make the main repo deployable at anytime, please set up branches before editing, and seek other collaboartors' reviews before putting the changes to the main.
 
 This is going to be a web application. The directory structure will work like a tree.
 
 ## Testing
-
-You can test the latest version of The Game at this URL:
-
-(Will be provided soon)
+You can test the latest version of The Game at this URL:(Will be provided soon)
 
 Our current testing procedure is to click on each link and check for broken links and missing pages. 
 
@@ -36,7 +34,7 @@ Our current testing procedure is to click on each link and check for broken link
 
 ## Code of Conduct
 
-Please respect the Group project's purpose and design structure. The design structure is described below. 
+Please respect the Group project's purpose and design structure. The design structure is described below.
 
 ### At the top of the structure will be
 
