@@ -1,6 +1,6 @@
-# Welcome!
+# Welcome to Group 1 Game
 
-Welcome to Group 1 -- Our Game Group Project! This is an open source project for students in Group 1 in IT 115 class at North Seattle College, but welcome for everyone contribution. We appreciate it.
+Our Game Group Project! This is an open source project for students in ***Group 1 in IT 115 class at North Seattle College***, but welcome for everyone contribution. We appreciate it.
 
 Our group developes an adventure text game. The player wakes up at an empty room and he is not sure what to do next. Player has four options to go forward, backward, left or right. Player decides to go forward --> Welcome player to go to an adventure room of Group 1.
 
@@ -36,19 +36,20 @@ Include screenshots and animated GIFs if applicable.
 
 Please respect the Group project's purpose and design structure. The design structure is described below. 
 
-### At the top of the structure will be:
+### At the top of the structure will be
 
 * index.html
+* group1
 * error.html
 * README.md
 * CODE_OF_CONDUCT.md
 * LICENSE
 * CONTRIBUTING.md
 
-### The next level will be directories for each group members:
-* directory contains .html files to different room adventures
+### The next level will be directories for each group members
+* directory contains .html files to different adventures
 
-### index.html directs user to different rooms for different adventures and endings. 
+### index.html directs user to different rooms for different adventures and endings
 
 * room1.html
 * room2.html
