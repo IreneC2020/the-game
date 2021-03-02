@@ -1,21 +1,20 @@
-## Welcome to GitHub Pages- Group 1
+# Welcome to GitHub Pages- Group 1
 
-# Group 1 finally made it!!! Yeah!!!!
-
+**Group 1 finally made it !!!! Yeah!!!**
 
 Our game room project is about to lauch!
 
-When you start the game, you are in _an empty room!_
+When you start the game, you are going to explore what behind the red door.........
 
-Where can you go?
+What will you see?
 
-** Forward? Left? Right? Backward? **
+Guess.....
 
-Choose one to start your adventure! 
+You will see a ghost who can give you options to ***start your adventure*** or ***fight back to the him***
 
-Choose Forward, you will see us!!!
+Let us know whatis your decision.....
 
-### Have fun!
+**Have fun!**
 
 
 
