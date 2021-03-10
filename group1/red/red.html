@@ -3,19 +3,41 @@
 
 
 
-<head><title>Red diamond</title></head>
+<head><title>Red diamond</title>
+    <style>
+      #wrapper{
+        width:940px;
+        height: 800px;
+        margin:10px auto;
+        padding: 100px 20px;
+        text-align: center;
+        color: white;
+        background-color: black; 
+      }
+      img{
+        max-width: 30%;
+        padding-right: 10px;        
+      }
+        
+    a{
+        color: grey;}
+    </style>
+</head>
+    
 <body>
+<div id="wrapper">
 <h1>Red....</h1> 
-  <p>When you touch the red diamond, your surroundings changes..</p>
+    <img src="images/red.png" alt="red diamond">
+  <p>When you touch the red diamond, your surroundings change...</p>
   <p>It's still dark! But you feel so light, like you can fly.</p>
   <p>Wait!!! That's the globe!!It 's so pretty, blue and green! But so far...</p>
   <p>You are in the universe! You try to hold on something, but nothing can be reached.</p>
   <p> Everything is flying!</p> 
 <p> You open your hands. There is one word on each hand "back" and "forward". Do you want to go back?</p>
-<button>back</button>
+<button onclick="document.location='../talk_to_the_ghost.html'">back</button>
   <p>Do you want to continue your adventure?</p>
-  <button>forward</button>
-
+  <button onclick="document.location='forward.html'">forward</button>
+    </div>
 </body>
 
 </html>
