@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang ="en">
+
+<head><title>Blue diamond</title>
+  
+ <style>
+      #wrapper{
+        width:940px;
+        height: 900px;
+        margin:10px auto;
+        padding: 100px 20px;
+        text-align: center;
+        color: white;
+        background-color: black;
+      }
+    
+    </style>  
+    </head>
+
+ 
+<body>
+ <div id="wrapper">    
+<h1>Question 1</h1>
+<br>
+    <p><i>Suddenly, the ghost gets very excited! He starts hopping around and clapping his hands together.</i></p>
+    <p><i>You don't understand what is going on as you quietly witness the ghost being giddy.</i></p>
+<br>
+    
+    <p><b>Ghost:</b> FIIIIRST QUESTION!</p>
+    <p><b>Ghost:</b> What is your earliest memory?</p>
+<br>
+     <p><i>You take a moment to remember. A lot of things come to your mind..</i></p>
+    <br>
+    <p>..but somehow you picture a kid gathering shells at the beach.</p>
+    <p>It is you!</p>
+    <p>There is not a single cloud in the sky and the ocean is calm.</p>
+    <p>You look towards the ocean and see what seems to be your parents!</p>
+    <p>They are waving at you! And in that moment - You are happy. </p>
+<br>
+    <p>You try to remember more, but the memory fades..</p>
+<br>
+    
+     <a href="question2.html" style="color: white;" >Before you can even answer, the ghost interups!</a>
+     
+    </div>
+</body>
+
+</html>
