@@ -55,7 +55,7 @@ Please respect the Group project's purpose and design structure. The design stru
 ### Then in group 1 directory, index.html file directs user to different adventures 
 * talk_to_the_ghost.html
 * fight_back_to_the_ghost.html
-Next Level  
+# Next Level  
 * red.html
 * blue.html
 * green.html
