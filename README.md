@@ -4,8 +4,8 @@ This is a project repository for Group 1 of IT 115 Winter 2021 at North Seattle 
 
 The name: Front Room.
 
-This repository is public*
-*Note: this is a test repository.
+This repository is public
+Note: this is a test repository.
 
 
 # Description
