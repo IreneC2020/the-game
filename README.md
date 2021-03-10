@@ -29,6 +29,6 @@ Contribution Guidelines: Anyone who wishes to contribute,please refer to 'CONTRI
 
 
 # Who maintains and contributes to the project
-IreneC2020 is hosting the main Repo.
-
+IreneC2020 is hosting the main repository.
+vchau254 is in charge with deploying the code.
 vchau254, evulsive, IreneC2020 are the main contributors.
