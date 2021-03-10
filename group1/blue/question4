@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang ="en">
+
+<head><title>Blue diamond</title>
+  
+<style>
+      #wrapper{
+        width:940px;
+        height: 900px;
+        margin:10px auto;
+        padding: 100px 20px;
+        text-align: center;
+        color: white;
+        background-color: black;
+      }
+    
+    </style>  
+   
+</head>
+ 
+<body>
+ <div id="wrapper">   
+<h1>Question 4</h1>
+<br>
+    
+<br>
+    <p><i>..with a soft voice, the ghost asks:</i></p>
+    <p><b>Ghost:</b> Last question..</p>
+    <p><b>Ghost:</b> How did you die?</p>
+<br>
+     <p><i>A rush of emotions come through you - saddness, happiness, love, hate!</i></p>
+     <p><i>It is almost too much for you to handle, but you cannot back down now.</i></p>
+<br>
+    <p>You see a room, the same room you are in right now.</p>
+    <p>It is your bedroom.</p>
+    <p>Your first love is now your wife and she is sleeping right next to you.</p>
+    <p>You are at peace. Up to that moment you have lived a good life and nothing can go wrong.</p>
+     <p><i>You blink.</i></p>
+    <p>The room is on fire.</p>
+    <p>You try waking up your wife</p>
+    <p>She is not responding - you are scared to death.</p>
+    <p>The windows won't open, the door is blocked</p>
+    <p>The fire is engulfing everything.</p>
+    <p>You hear sirens and firefighters coming up the stairs</p>
+    <p>There is hope!</p>
+    <p>With your last strenght, you manage to squeeze your wife through the door..</p>
+    <p>..but it is too late for you.</p>
+     <a href="end.html" style="color: white;" >You are trapped in.</a>
+
+    </div>
+</body>
+
+</html>
