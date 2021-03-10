@@ -48,14 +48,19 @@ Please respect the Group project's purpose and design structure. The design stru
 * CONTRIBUTING.md
 
 ### The next level will be directories for each group members
+
 * directory contains .html files to different adventures
 * images directory contains all the images for the project
 
 ### index.html on top level directs user to different rooms for different adventures and endings
-### Then in group 1 directory, index.html file directs user to different adventures 
+
+### Then in group 1 directory, index.html file directs user to different adventures
+
 * talk_to_the_ghost.html
 * fight_back_to_the_ghost.html
-#### Next Level  
+
+#### Next Level
+
 * red.html
 * blue.html
 * green.html
