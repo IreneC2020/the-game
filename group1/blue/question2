@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang ="en">
+
+<head><title>Blue diamond</title>
+  
+
+
+    
+    
+<style>
+      #wrapper{
+        width:940px;
+        height: 900px;
+        margin:10px auto;
+        padding: 100px 20px;
+        text-align: center;
+        color: white;
+        background-color: black;
+      }
+    
+    </style>  
+    </head>
+
+ 
+<body>
+ <div id="wrapper">   
+     <h1>Question 2</h1>
+<br>
+    
+<br>
+    
+    <p><b>Ghost:</b> SEEECOND QUESTION!</p>
+    <p><b>Ghost:</b> Who was your first love?</p>
+<br>
+     <p><i>Again you hesitate...</i></p>
+     <p><i>You tried remembering before and nothing came to your mind. But all of a sudden...</i></p>
+    <p>It's spring, you are in a park.</p>
+    <p>You see a girl.</p>
+    <p>She is so pretty you cannot take your eyes off her.</p>
+    <p>She is running around playfully in a flowy dress, but fixes you with her beautiful eyes while giggling.</p>
+    <p>You give her flowers.</p>
+    <p>She kisses you on your lips as a thank you.</p>
+    <p>You close your eyes for a second to feel the moment.</p>
+    <p>But the girl dissappears.</p>
+<br>
+     <a href="question3.html" style="color: white;" >You are back to reality and you try answering the ghost's question, but before you can even say a word..</a>
+
+
+    </div>
+</body>
+
+</html>
