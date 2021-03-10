@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang ="en">
+
+<head><title>Blue diamond</title>
+  
+<style>
+      #wrapper{
+        width:940px;
+        height: 900px;
+        margin:10px auto;
+        padding: 100px 20px;
+        text-align: center;
+        color: white;
+        background-color: black;
+      }
+    
+    </style>  
+   
+</head>
+ 
+<body>
+ <div id="wrapper">   
+<h1>Question 3</h1>
+<br>
+    
+<br>
+    
+    <p><b>Ghost:</b> THIIIIRD QUESTION!</p>
+    <p><b>Ghost:</b> Who was your first child?</p>
+<br>
+     <p><i>You don't understand..You are.. a father?</i></p>
+     <p><i>Before you can even question this..</i></p>
+    <p>Everybody is screaming: It's a boy! You are holding a new born. </p>
+    <p><i>The memory is like a flash.</i></p>
+    <p>You see the same baby smiling for the first time. You feel true love.</p>
+    <p><i>The memory skips.</i></p>
+    <p>The same child is taking his first steps. You are scared but happy.</p>
+    <p><i>The memory keeps jumping forward.</i></p>
+    <p>You build a tree house for him. You are both laughing.</p>
+    <p><i>Things start getting blurry but it stops when..</i></p>
+    <p>You see your son graduating - you are so proud.</p>
+    
+    <p>You are left speachless, and start feeling sad..</p>
+<br>
+    <p><i>You look at the ghost and see his excitement is gone.</i></p>
+     <a href="question4.html" style="color: white;" >You want to tell him everything you've seen so far but..</a>
+    </div>
+</body>
+
+</html>
