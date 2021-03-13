@@ -20,7 +20,7 @@ changes to the main.
 This is going to be a web application. The directory structure will work like a tree.
 
 ## Testing
-You can test the latest version of The Game at this URL:http://100.25.129.67/index.html
+You can test the latest version of The Game at [this URL](http://100.25.129.67/index.html)
 Before we put html files in the repo, we use validator to screen all the bugs.
 And we also install and use super-Linter to catch the bugs. All the bugs found are posted in bug report for follow up.
 After upload the files, we use github page to test the project before deploy in AWS server.
